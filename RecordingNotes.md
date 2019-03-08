@@ -8,3 +8,10 @@
     git clone https://github.com/DalinVector/Go-Python.git
     ```
     然而，第一次在clone后面少了一个空格竟然木有成功呢，所以，这么个小细节能影响成败呢！
+- 就在刚刚，21点7分，我TM竟然push成功了！虽然云里雾里，但是确实是成功了！
+
+无图言吊：
+
+![](C:\Users\HUHU\Desktop\捕获.png)
+
+![](C:\Users\HUHU\Desktop\捕获1.png)
