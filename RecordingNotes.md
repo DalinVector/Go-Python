@@ -15,3 +15,35 @@
 ![](C:\Users\HUHU\Desktop\捕获.png)
 
 ![](C:\Users\HUHU\Desktop\捕获1.png)
+## 2019年3月9日 第三天
+
+- 作业为复习之前的vscode指令，熟悉push操作，记录学习进度。
+- 完成情况：
+
+    1.当在目录库下新创建分支文件或文件夹时，首次上传的指令为：
+
+    git add +文件名/文件夹名
+
+    -Enter
+
+    git commit -m +"推送备注"
+
+    -Enter
+
+    git push origin master
+    
+    -Enter
+2. 当在原有文件基础上做了变动及变更的情况下，上传指令为：
+
+
+    git add -A
+
+    -Enter
+
+    git commit -m +"推送备注"
+
+    -Enter
+
+    git push origin master
+
+    -Enter
