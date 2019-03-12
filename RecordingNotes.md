@@ -76,4 +76,4 @@
 
         not>and>or
     
-    练习代码见文档Hellopython.py
+    练习代码见文档[Hellopython](https://github.com/DalinVector/Go-Python/blob/master/MyPython/Hellopython.py)
